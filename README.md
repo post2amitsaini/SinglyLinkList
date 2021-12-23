@@ -1,4 +1,7 @@
 # SinglyLinkList
+
+<meta name="google-site-verification" content="Linked List with Swift 5">
+
 Singly Link List with Swift5
 
 A linked list is a sequence of data items, where each item is referred to as a node.
